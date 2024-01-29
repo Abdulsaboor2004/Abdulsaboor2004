@@ -1,4 +1,4 @@
-Hi, I'm a learner, Developer, Ex-Marketer and Sales executive for a while. 
+Hi, I'm a learner, Developer, Ex-Marketer and have been a Sales executive for a while. 
 My goal is getting all kind of knowledge that helps to run a business throughly. 
 
 Have an idea? Or wanna talk? Reach Out through 👇🏼
