@@ -12,7 +12,10 @@ BTW, Right Now, I use that stuff 🌂 but in **future** I'd learn more.
 
 Have an idea? Or wanna talk? Reach Out through 👇🏼
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/abdulsaboor2004/) [![Discord](https://img.icons8.com/color/48/000000/discord.png)](https://discord.com/users/abdulsaboor2004) [![Facebook](https://img.icons8.com/color/48/000000/facebook-new.png)](https://www.facebook.com/abdulsaboor2004/) [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/AbdulSaboor2004)
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/abdulsaboor2004/) [![Discord](https://img.icons8.com/color/48/000000/discord.png)](https://discord.com/users/abdulsaboor2004) [![Facebook](https://img.icons8.com/fluency/48/000000/facebook-new.png)](https://www.facebook.com/abdulsaboor2004/) [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/AbdulSaboor2004)
+
+
+
 
 <!---
 Abdulsaboor2004/Abdulsaboor2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
