@@ -1,9 +1,6 @@
 ## Hi,
 
-I'm a learner, Developer, Ex-Marketer and have been a Sales executive for a while too. 
-My goal is getting all kind of knowledge that helps to run a business or a software company throughly. 
-
-BTW, Right Now, I use that stuff 🌂 but in **future** I'd learn more.
+You see these Icons below ?? Looks fancy, but I've left these after making some projects, you know Data Science excites me the most, for real.
 
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) <img src="https://i.imgur.com/mPCn0ll.png" alt="Tailwind CSS" height="30"> ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![GitHub](https://img.icons8.com/color/48/000000/github--v1.png) ![npm](https://img.icons8.com/color/48/000000/npm.png)  <img src="https://vitejs.dev/logo.svg" alt="Vite Logo" height="40">
  ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
