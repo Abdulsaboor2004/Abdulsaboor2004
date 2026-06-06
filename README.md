@@ -1,13 +1,22 @@
-## Hi,
+## Hi, I'm Saboor 
 
-You see these Icons below ?? Looks fancy, but I've left these after making some projects, you know Data Science excites me the most, for real.
+Focused on becoming a Data Scientist by building projects, breaking things, fixing them, and learning from the process.
 
-![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) <img src="https://i.imgur.com/mPCn0ll.png" alt="Tailwind CSS" height="30"> ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![GitHub](https://img.icons8.com/color/48/000000/github--v1.png) ![npm](https://img.icons8.com/color/48/000000/npm.png)  <img src="https://vitejs.dev/logo.svg" alt="Vite Logo" height="40">
- ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+### Current Stack
+
+![Python](https://img.icons8.com/color/48/python.png)
+![Pandas](https://img.icons8.com/color/48/000000/pandas.png)
+![NumPy](https://img.icons8.com/color/48/000000/numpy.png)
+![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![GitHub](https://img.icons8.com/color/48/000000/github--v1.png)
+![Jupyter](https://img.icons8.com/color/48/000000/jupyter.png)
+![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 
 
 
-Have an idea? Or wanna talk? Reach Out through 👇🏼
+Open to work on your ideas, Talk to me 👇🏼
 
 [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/abdulsaboor2004/) [![Discord](https://img.icons8.com/color/48/000000/discord.png)](https://discord.com/users/abdulsaboor2004) [![Facebook](https://img.icons8.com/fluency/48/000000/facebook-new.png)](https://www.facebook.com/abdulsaboor2004/) [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/AbdulSaboor2004)
 
